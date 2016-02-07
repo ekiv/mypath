@@ -1,2 +1,2 @@
-sdfsdfdsf!
-std::string katyaka = "musyaka";
+sdfsdfdsf!std::string katyaka = "musyaka";
+tstjljljjl!!
